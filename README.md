@@ -5,7 +5,7 @@ I'm Founder & Leader [System of Pekalongan](https://github.com/SystemOfPekalonga
 
 [![Gmail Badge](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:pemudatersesat1337@gmail.com)](mailto:pemudatersesat1337@gmail.com) 
 [![Github Badge](https://img.shields.io/badge/-Github-grey?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/root-x-krypt0n-x)](https://github.com/root-x-krypt0n-x/)
-[![Instagram](https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/biji_heker/) 
+[![Instagram](https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/x0r_1337/) 
 [![Facebook](https://img.shields.io/badge/-Facebook-black?style=for-the-badge&logo=facebook)](https://www.facebook.com/tom.smitch.1042/)
 [![Youtube](https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/c/SystemOfPekalongan)
 
