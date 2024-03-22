@@ -15,6 +15,14 @@ About Me:
 - Pentester
 - Ctf Player
 
+Current Project I working on:
+- brewix installer
+
+things I've learned lately:
+- rust
+- maldev
+- reverse engineering
+
 #### :computer: Programming Languages & Tools:
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
