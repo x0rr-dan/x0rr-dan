@@ -16,7 +16,7 @@ About Me:
 - Ctf Player
 
 Current Project I working on:
-- brewix installer
+- s1c0n
 
 things I've learned lately:
 - rust
