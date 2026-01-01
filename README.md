@@ -10,7 +10,8 @@ About Me:
 
 Current Project I working on:
 - s1c0n
-
+- custom C2
+  
 things I've learned lately:
 - rust
 - maldev
